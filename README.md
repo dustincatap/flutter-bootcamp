@@ -43,10 +43,12 @@ This bootcamp provides a structured path to learning Flutter and Dart, with hand
 ### Week 2 – UI Building, Navigation & State Management Basics
 **Topics:**
 - Build multi-screen apps
-- Form handling
+- Form handling and validation
 - Manage state using setState
+- Add images and custom fonts
+- Implement light/dark themes
 
-**Deliverable:** Multi-screen Navigation App
+**Deliverable:** Multi-Page Registration Form
 
 ### Week 3 – API Integration, Lists & Persistence
 **Topics:**
@@ -75,10 +77,10 @@ Each week includes:
 ## Getting Started
 
 1. **Set Up Your Environment**
-   - Follow the instructions in [Week 1: Setting Up Flutter Environment](week-1/02-setting-up-flutter-environment.md)
+   - Follow the instructions in [Week 1: Setting Up Flutter Environment](01-week/02-setting-up-flutter-environment.md)
 
 2. **Start with Week 1**
-   - Navigate to the `week-1/` folder
+   - Navigate to the `01-week/` folder
    - Read through the materials in order
    - Complete the exercises and final project
 
@@ -97,16 +99,21 @@ Each week includes:
 ```
 Flutter-Bootcamp/
 ├── README.md                 # This file
-├── week-1/                   # Week 1 materials
+├── 01-week/                  # Week 1 materials
 │   ├── README.md
 │   ├── 01-intro-to-flutter.md
 │   ├── 02-setting-up-flutter-environment.md
 │   ├── 03-dart-language-basics.md
 │   ├── 04-flutter-fundamentals.md
 │   └── 05-exam.md
-├── week-2/                   # Week 2 materials (coming soon)
-├── week-3/                   # Week 3 materials (coming soon)
-└── week-4/                   # Week 4 materials (coming soon)
+├── 02-week/                  # Week 2 materials
+│   ├── 01-navigation.md
+│   ├── 02-forms-and-user-input.md
+│   ├── 03-basic-state-management.md
+│   ├── 04-assets-and-theming.md
+│   └── 05-exam.md
+├── 03-week/                  # Week 3 materials (coming soon)
+└── 04-week/                  # Week 4 materials (coming soon)
 ```
 
 ## Learning Tips
