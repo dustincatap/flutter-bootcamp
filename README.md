@@ -52,11 +52,11 @@ This bootcamp provides a structured path to learning Flutter and Dart, with hand
 
 ### Week 3 – API Integration, Lists & Persistence
 **Topics:**
-- Fetch data from REST APIs
-- Display list-based UI
-- Save simple data locally
+- Fetch data from REST APIs (HTTP requests, JSON parsing)
+- Display data in dynamic lists (ListView, GridView, FutureBuilder)
+- Save data locally (SharedPreferences, secure storage)
 
-**Deliverable:** Data-Driven App with API Integration
+**Deliverable:** Task Manager App with API Integration
 
 ### Week 4 – Final Project: Mini Production-Ready Flutter App
 **Topics:**
@@ -112,7 +112,12 @@ Flutter-Bootcamp/
 │   ├── 03-basic-state-management.md
 │   ├── 04-assets-and-theming.md
 │   └── 05-exam.md
-├── 03-week/                  # Week 3 materials (coming soon)
+├── week-03/                  # Week 3 materials
+│   ├── README.md
+│   ├── 01-networking.md
+│   ├── 02-dynamic-lists.md
+│   ├── 03-local-data-persistence.md
+│   └── 04-exam.md
 └── 04-week/                  # Week 4 materials (coming soon)
 ```
 
