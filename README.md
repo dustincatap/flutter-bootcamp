@@ -112,7 +112,7 @@ Flutter-Bootcamp/
 │   ├── 03-basic-state-management.md
 │   ├── 04-assets-and-theming.md
 │   └── 05-exam.md
-├── week-03/                  # Week 3 materials
+├── 03-week/                  # Week 3 materials
 │   ├── README.md
 │   ├── 01-networking.md
 │   ├── 02-dynamic-lists.md
