@@ -58,13 +58,15 @@ This bootcamp provides a structured path to learning Flutter and Dart, with hand
 
 **Deliverable:** Task Manager App with API Integration
 
-### Week 4 – Final Project: Mini Production-Ready Flutter App
+### Week 4 – Cubit State Management & Final Project
 **Topics:**
+- State management with Cubit
 - Combine everything: UI, navigation, API, persistence
-- Introduce a state management option such as Bloc/Cubit
-- Build a polished app
+- Build a complete e-commerce shopping app
+- Implement cart management with local persistence
+- Advanced UI patterns and best practices
 
-**Deliverable:** Complete Production-Ready Application
+**Deliverable:** E-Commerce Shopping App with Cubit State Management
 
 ## Course Structure
 
@@ -118,7 +120,10 @@ Flutter-Bootcamp/
 │   ├── 02-dynamic-lists.md
 │   ├── 03-local-data-persistence.md
 │   └── 04-exam.md
-└── 04-week/                  # Week 4 materials (coming soon)
+└── 04-week/                  # Week 4 materials
+   ├── README.md
+   ├── 01-cubit-state-management.md
+   └── 02-exam.md
 ```
 
 ## Learning Tips
